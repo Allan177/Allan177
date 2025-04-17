@@ -1,26 +1,41 @@
 # Olá, sou o Allan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true)](https://github.com/Allan177)
 
-## Tecnologias que eu uso 🚀
+## 📊 Linguagens mais usadas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" height="40px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" height="40px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40px" height="40px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" height="40px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" height="40px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" height="40px" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="40px" height="40px" title="JSON"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" height="40px" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" height="40px" title="MySQL"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical&hide_title=true)
 
 ---
 
-## Vamos Conectar! 🌐
+## 🚀 Tecnologias que eu uso
+
+| Linguagens | Frameworks & Ferramentas |
+|------------|--------------------------|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) JavaScript | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) Node.js |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) Java | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) React |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg) Python | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg) MySQL |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) HTML5 | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg) CSS3 |
+| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg) Bootstrap | ![JSON](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg) JSON |
+
+---
+
+## 🌱 Atualmente aprendendo
+
+- **GraphQL**
+- **TypeScript**
+- **Docker**
+- **Gatsby.js**
+
+---
+
+## 📈 Meu progresso
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true)
+
+---
+
+## 💬 Vamos Conectar!
 
 <div align="center">
   <a href="https://www.instagram.com/euallan17?igsh=dGh0OXp6bW5zcGxy" target="_blank">
@@ -33,20 +48,42 @@
 
 ---
 
-## Sobre mim ✨
+## ✨ Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Gosto de criar soluções criativas e funcionais em várias linguagens de programação. Meu foco atual está em projetos web, utilizando tecnologias como JavaScript, React, Node.js e muito mais.
-
-### 🌱 Atualmente aprendendo:
-- **GraphQL**
-- **TypeScript**
-- **Docker**
+Sou um desenvolvedor full-stack, sempre em busca de novos desafios e melhorias nas minhas habilidades. Atualmente, estou focado em aprender mais sobre tecnologias de ponta como **GraphQL** e **Docker**, além de explorar novos frameworks como **Gatsby.js**.
 
 ---
 
-## GitHub Stats 📊
+## 📅 Minha Timeline
 
-<div align="center">
-  ![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&theme=radical)
-  ![Allan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical)
-</div>
+| Ano  | Projetos & Aprendizados |
+|------|-------------------------|
+| **2025** | Aprendizado avançado de **TypeScript**, **Docker** e **GraphQL** |
+| **2024** | Criação de aplicações **React** e **Node.js**, experiência com **GraphQL** |
+| **2023** | Desenvolvimento de projetos em **JavaScript** e **Java**, com foco em **API's** |
+
+---
+
+## 🔥 Projetos em Destaque
+
+- [**Projeto 1: Meu Site Pessoal**](https://github.com/Allan177/projeto1)  
+  Um site criado com **React** e **Node.js** para promover minha jornada como desenvolvedor.
+
+- [**Projeto 2: API de Gerenciamento de Tarefas**](https://github.com/Allan177/projeto2)  
+  API desenvolvida com **Express** e **MySQL**, implementando CRUD para tarefas de equipe.
+
+- [**Projeto 3: Chatbot com AI**](https://github.com/Allan177/projeto3)  
+  Chatbot inteligente que utiliza **Python** e **TensorFlow** para respostas automatizadas.
+
+---
+
+## 🎨 Gráfico de Contribuições
+
+![GitHub Contributions](https://github.com/Allan177/github-contribution-chart.svg)
+
+---
+
+### 📧 Me envie uma mensagem!
+
+Se você está interessado em colaborar ou discutir projetos interessantes, sinta-se à vontade para entrar em contato através do meu [Instagram](https://www.instagram.com/euallan17) ou [Discord](https://discord.com/invite/VjjQc4ZQ).
+
