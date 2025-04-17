@@ -1,6 +1,12 @@
-# Olá, sou o Allan 👨‍💻
+# Olá, sou o Allan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true&border_radius=10)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true)](https://github.com/Allan177)
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical&hide_title=true)
+
+---
 
 ## 🚀 Tecnologias que eu uso
 
@@ -23,38 +29,13 @@
 
 ---
 
-## 📊 Gráficos Interativos e Contribuições
+## 📈 Meu progresso
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true&radius=10&line=3&point=3&area=true&area_color=rgba(0, 0, 0, 0.1))
-![GitHub Contributions](https://github.com/Allan177/github-contribution-chart.svg)
-
----
-
-## 🎮 A cobrinha que come meus commits!
-
-Aqui está a famosa cobrinha, que se alimenta dos meus commits!
-
-![Snake Game](https://raw.githubusercontent.com/Allan177/Allan177/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true)
 
 ---
 
-## 🔥 Projetos em Destaque
-
-### **💻 Projeto 1: Meu Site Pessoal**
-- **Descrição**: Um site criado com **React** e **Node.js** para promover minha jornada como desenvolvedor.
-- **Link**: [Visite o Projeto](https://github.com/Allan177/projeto1)
-
-### **📝 Projeto 2: API de Gerenciamento de Tarefas**
-- **Descrição**: API desenvolvida com **Express** e **MySQL**, implementando CRUD para tarefas de equipe.
-- **Link**: [Visite o Projeto](https://github.com/Allan177/projeto2)
-
-### **🤖 Projeto 3: Chatbot com AI**
-- **Descrição**: Chatbot inteligente que utiliza **Python** e **TensorFlow** para respostas automatizadas.
-- **Link**: [Visite o Projeto](https://github.com/Allan177/projeto3)
-
----
-
-## 🧠 Vamos Conectar e Colaborar!
+## 💬 Vamos Conectar!
 
 <div align="center">
   <a href="https://www.instagram.com/euallan17?igsh=dGh0OXp6bW5zcGxy" target="_blank">
@@ -63,22 +44,17 @@ Aqui está a famosa cobrinha, que se alimenta dos meus commits!
   <a href="https://discord.com/invite/VjjQc4ZQ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:allan@example.com?subject=Conexão GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
 
-## 📈 Estatísticas de Contribuição
+## ✨ Sobre mim
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true&border_radius=10)
-</div>
+Sou um desenvolvedor full-stack, sempre em busca de novos desafios e melhorias nas minhas habilidades. Atualmente, estou focado em aprender mais sobre tecnologias de ponta como **GraphQL** e **Docker**, além de explorar novos frameworks como **Gatsby.js**.
 
 ---
 
-## 📅 Minha Linha do Tempo
+## 📅 Minha Timeline
 
 | Ano  | Projetos & Aprendizados |
 |------|-------------------------|
@@ -88,20 +64,26 @@ Aqui está a famosa cobrinha, que se alimenta dos meus commits!
 
 ---
 
-## 💻 Animações e Gráficos de Contribuições
+## 🔥 Projetos em Destaque
 
-<div align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true&radius=10&line=3&point=3&area=true&area_color=rgba(0, 0, 0, 0.1))
-</div>
+- [**Projeto 1: Meu Site Pessoal**](https://github.com/Allan177/projeto1)  
+  Um site criado com **React** e **Node.js** para promover minha jornada como desenvolvedor.
+
+- [**Projeto 2: API de Gerenciamento de Tarefas**](https://github.com/Allan177/projeto2)  
+  API desenvolvida com **Express** e **MySQL**, implementando CRUD para tarefas de equipe.
+
+- [**Projeto 3: Chatbot com AI**](https://github.com/Allan177/projeto3)  
+  Chatbot inteligente que utiliza **Python** e **TensorFlow** para respostas automatizadas.
 
 ---
 
-## 🎨 Tabelas e Layout Moderno
+## 🎨 Gráfico de Contribuições
 
-Utilizando **Markdown** com uma estrutura visual interativa e gráficos dinâmicos, posso apresentar meus projetos e contribuições de uma maneira muito mais envolvente. 💡
+![GitHub Contributions](https://github.com/Allan177/github-contribution-chart.svg)
 
 ---
 
 ### 📧 Me envie uma mensagem!
 
 Se você está interessado em colaborar ou discutir projetos interessantes, sinta-se à vontade para entrar em contato através do meu [Instagram](https://www.instagram.com/euallan17) ou [Discord](https://discord.com/invite/VjjQc4ZQ).
+
