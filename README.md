@@ -72,7 +72,7 @@ Sou um desenvolvedor full-stack, sempre em busca de novos desafios e melhorias n
 - [**Projeto 2: API de Gerenciamento de Tarefas**](https://github.com/Allan177/projeto2)  
   API desenvolvida com **Express** e **MySQL**, implementando CRUD para tarefas de equipe.
 
-- [**Projeto 3: Chatbot com AI**](https://github.com/Allan177/projeto3)  
+- [**Projeto 3: Gerenciador de tarefas de equipes**](https://github.com/Allan177/projeto3)  
   Chatbot inteligente que utiliza **Python** e **TensorFlow** para respostas automatizadas.
 
 ---
