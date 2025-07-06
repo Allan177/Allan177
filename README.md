@@ -1,108 +1,106 @@
-# 👋 Olá, sou o Allan!
+<h1 align="center">Olá, sou o Allan 👋</h1>
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente estou explorando novas ferramentas como **n8n** e me aprofundando em tecnologias modernas para automação e desenvolvimento.
+<p align="center">
+  Desenvolvedor Full Stack, apaixonado por tecnologia, automações e inovação. <br />
+  Explorando ferramentas modernas como <strong>n8n</strong>, <strong>Docker</strong> e <strong>GraphQL</strong>!
+</p>
 
 ---
 
-## ⚙️ Tecnologias que utilizo
+## 🚀 Tecnologias & Ferramentas
 
-<table>
-  <tr>
-    <th>Linguagens</th>
-    <th>Frameworks & Ferramentas</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20"/> JavaScript  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20"/> Java  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="20"/> Python  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20"/> HTML5  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20"/> CSS3
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="20"/> Node.js  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="20"/> React  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20"/> MySQL  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="20"/> Bootstrap  
-      <br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="20"/> JSON
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧠 Linguagens
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+
+### 🌐 Front-End
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+
+### 🔧 Back-End & Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+
+### ⚙️ Ferramentas & Outros
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+
+</div>
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- **n8n e automações**
-- **TypeScript**
-- **GraphQL**
-- **Docker**
-- **Gatsby.js**
+- ⚙️ **n8n** e automações com fluxos no-code
+- 🧩 **GraphQL**
+- 🧱 **TypeScript**
+- 🐳 **Docker**
+- ⚡ **Gatsby.js**
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&hide=prs&count_private=true&theme=radical&hide_title=true)](https://github.com/Allan177)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical&hide_title=true)](https://github.com/Allan177)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true)
-
-![GitHub Contributions](https://github.com/Allan177/github-contribution-chart.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&theme=radical&count_private=true&hide_title=true)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical&hide_title=true)
+<br />
+<img src="https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true" alt="Gráfico de atividade"/>
+<br />
+<img src="https://github.com/Allan177/github-contribution-chart.svg" alt="Gráfico de contribuições"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## ✨ Projetos em Destaque
 
-- [**Projeto 1: Meu Site Pessoal**](https://github.com/Allan177/projeto1)  
-  Aplicação em **React** e **Node.js** sobre minha jornada de aprendizado.
+🔹 [**Meu Site Pessoal**](https://github.com/Allan177/projeto1)  
+Aplicação em React + Node.js para apresentar meu portfólio.
 
-- [**Projeto 2: API de Gerenciamento de Tarefas**](https://github.com/Allan177/projeto2)  
-  API completa com **Express** e **MySQL**, usando padrão CRUD.
+🔹 [**API de Tarefas**](https://github.com/Allan177/projeto2)  
+API REST com Express + MySQL e funcionalidades completas de CRUD.
 
-- [**Projeto 3: Gerenciador de Tarefas de Equipes**](https://github.com/Allan177/projeto3)  
-  Sistema colaborativo com **Python** e automações de IA para produtividade.
-
----
-
-## 📅 Minha Timeline
-
-| Ano  | Projetos & Aprendizados |
-|------|-------------------------|
-| **2025** | Estudo de **n8n**, **TypeScript**, **Docker** e **GraphQL** |
-| **2024** | Criação de sistemas com **React**, **Node.js** e APIs |
-| **2023** | Projetos com **JavaScript**, **Java** e foco em **backend** |
+🔹 [**Gerenciador de Equipes**](https://github.com/Allan177/projeto3)  
+Sistema de produtividade em grupo, com IA e automações.
 
 ---
 
-## 💬 Vamos Conectar!
+## 📅 Minha Jornada
+
+| Ano  | Destaques |
+|------|-----------|
+| **2025** | Estudo avançado de **n8n**, **Docker**, **GraphQL** e **TypeScript** |
+| **2024** | Criação de apps modernos com **React**, **Node.js**, e **APIs REST** |
+| **2023** | Foco em back-end com **JavaScript**, **Java** e automações simples |
+
+---
+
+## 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.instagram.com/euallan17?igsh=dGh0OXp6bW5zcGxy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/invite/VjjQc4ZQ" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+
+[![Instagram](https://img.shields.io/badge/@euallan17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euallan17)
+[![Discord](https://img.shields.io/badge/Allan%20Clips%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/VjjQc4ZQ)
+
 </div>
 
 ---
 
-### 📧 Me envie uma mensagem
-
-Se você quer bater um papo, colaborar em projetos, ou tem uma ideia legal envolvendo **n8n**, **automação**, ou **desenvolvimento web**, me chama no [Instagram](https://www.instagram.com/euallan17) ou no [Discord](https://discord.com/invite/VjjQc4ZQ)!
-
----
+## 📬 Vamos conversar?
