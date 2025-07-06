@@ -79,6 +79,3 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia. Gosto de criar soluç
 
 ---
 
-## 📬 Fale comigo
-
-Se você gosta de tecnologia, automações com **n8n**, ou está criando algo com **Node.js**, **React** ou **Docker**, me manda uma mensagem! 🚀
