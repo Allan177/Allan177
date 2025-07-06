@@ -11,11 +11,11 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia. Gosto de criar soluç
 |------------|------|--------|------------|
 
 ### Front-end
-| HTML5 | CSS3 | React | Bootstrap |
+| HTML5 | Tailwind | React | Bootstrap |
 |-------|------|--------|-----------|
 
 ### Back-end & Banco de dados
-| Node.js | Express | MySQL | SQLite |
+| Node.js | Express | Postgre | Spring |
 |---------|---------|--------|--------|
 
 ### Ferramentas & Outros
